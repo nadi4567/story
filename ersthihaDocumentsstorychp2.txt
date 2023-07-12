@@ -1,0 +1,11 @@
+[33mcommit b7f111518150f86a799a20571eedcd3809643e96[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yu Nadi Soe <yunadisoe8@gmail.com>
+Date:   Sun Jul 9 16:41:26 2023 +0630
+
+    complete chapter 2 and 3
+
+[33mcommit a3776c78db23646db463008ce03f8fb60e5f9e81[m
+Author: Yu Nadi Soe <yunadisoe8@gmail.com>
+Date:   Sun Jul 9 16:35:16 2023 +0630
+
+    complete chapter 1
