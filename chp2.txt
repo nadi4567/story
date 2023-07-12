@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 This is the chapter 2.Inperfection is better than Inaction.
-this is branch practise . alien-plot
+this is branch practise . alien-plot.
